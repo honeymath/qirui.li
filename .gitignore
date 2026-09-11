@@ -1,1 +1,10 @@
 .agents
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex
+*.synctex.gz
+*.fls
+*.fdb_latexmk
